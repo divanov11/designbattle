@@ -11,8 +11,6 @@ View stream [here](#)
 
 ![Agora](./images/agora.png "MarineGEO logo")
 
-<img src="./images/agora.png"/>
-
 
 ## How to participate
 
