@@ -1,15 +1,14 @@
+
 # Design Battle Live!
 
-Official contest rules and description for the 6/29/2022 design battle hosted by [Dennis Ivy](https://twitter.com/dennisivy11) and [Gary Simon](https://twitter.com/designcoursecom).
+Official contest rules and details for the 6/29/2022 design battle hosted by [Dennis Ivy](https://twitter.com/dennisivy11) and [Gary Simon](https://twitter.com/designcoursecom).
 
 View stream [here](#)
-
-
 
 ## Sponsored by [Agora](https://twitter.com/AgoraIO)
 
 
-![Agora](/images/agora.png "MarineGEO logo")
+![Agora](./images/agora.png "MarineGEO logo")
 
 
 ## How to participate
@@ -36,4 +35,3 @@ Note: All times represented in Eastern Standard Timezone
 - 11am: Contest challenge announced
 - 12pm: Dennis and Gary go live on youtube.
 - 1:15pm: Winners announced 
-
