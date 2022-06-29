@@ -2,7 +2,7 @@
 
 # Design Battle Live!
 
-Official contest rules and details for the 6/29/2022 design battle hosted by [Dennis Ivy](https://twitter.com/dennisivy11) and [Gary Simon](https://twitter.com/designcoursecom).
+Official contest rules and details for the 6/30/2022 design battle hosted by [Dennis Ivy](https://twitter.com/dennisivy11) and [Gary Simon](https://twitter.com/designcoursecom).
 
 View stream [here](https://www.youtube.com/watch?v=n2i4D62mIDE)
 
