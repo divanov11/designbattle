@@ -7,7 +7,7 @@ Official contest rules and details for the 6/29/2022 design battle hosted by [De
 View stream [here](https://www.youtube.com/watch?v=n2i4D62mIDE)
 
 
-![Agora](./images/DesignBattles.jpg )
+![DesignBattle](./images/DesignBattles.jpg )
 
 ## Sponsored by [Agora](https://twitter.com/AgoraIO)
 
