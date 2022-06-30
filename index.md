@@ -45,13 +45,19 @@ Note: All times represented in Eastern Standard Timezone
 
 This will be posted at 11am EST on 6/30/2022
 
-
 Ok so the task at hand is revealed! Since Agora is the sponsor of this video we will create a landing page promoting Agora and two of their products. The Agora RTC and RTM SDK. This will be a ONE page design.
 
 I will provide all the content below, your job will be to piece this together using Figma (or XD). It's up to your discretion to use whatever content you want wish and how you piece together the layout along with color schemes. 
 
 Note: Ask any questions you may have in the #hackathon-questions channel in the discord server. If you need to reference the agora website you can find it at [agora.io](https://www.agora.io/en/)
 
+## Project Specs
+
+- Required: Navbar - Integrate the logo and create a fake navigation
+- Required: Create a hero section that includes the headline, subheadline and the description along with a call to action (a button or two to join and learn more)
+- Required: Underneath the hero section, include the list of supported platforms.
+- Required: Desktop design
+- Anymore design that you add is up to you, but not required.
 
 ## Suggested Page Content
 
