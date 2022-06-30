@@ -71,7 +71,7 @@ Color: rgba(9, 157, 253, 1) /#099dfd
 ![Agora](https://www.agora.io/en/wp-content/themes/agora-mar-24-2022-b/images/agora-logo.svg "Agora logo")
 
 
-**Headline:** "Build Voice & Video calling Right Intro Your Apps"
+**Headline:** "Build Voice & Video calling Right Into Your Apps"
 
 **Sub-headline:** "SDK's for Voice, Video, Real Time Data Signaling and more"
 
