@@ -43,7 +43,6 @@ Note: All times represented in Eastern Standard Timezone
 
 This will be posted at 11am EST on 6/30/2022
 
-<!-- 
 
 Ok so the task at hand is revealed! Since Agora is the sponsor of this video we will create a landing page promoting Agora and two of their products. The Agora RTC and RTM SDK. This will be a ONE page design.
 
@@ -64,46 +63,28 @@ Color: rgba(9, 157, 253, 1)
 ![Agora](https://www.agora.io/en/wp-content/themes/agora-mar-24-2022-b/images/agora-logo.svg "Agora logo")
 
 
-**Headline:** "Build real Time Communication
-into Your apps"
+**Headline:** "Build Voice & Video calling Right Intro Your Apps"
 
-Sub-headline: "SDK for Voice, Video, Real Time Data Signaling and more"
+**Sub-headline:** "SDK's for Voice, Video, Real Time Data Signaling and more"
 
 **Description:** "Agora is a real time engagement platform as a services. Its a fancy way of saying we saying provide you with all the backend infrastructure along with all the ways for your application to enable real time voice video and messaging in your applications."
 
-### Agora Products:
+**Platforms:**
 
-
-**Agora RTC:** Voice and Video with Agora RTC
-
-
-
-**Agora RTM:** Real Time Data Signaling with Agora RTM
-
-Note: use `Lorem Ipsum` text for product descriptions if you wish to add any.
+- Android 
+- Web
+- Flutter
+- React Native
+- Unity
+- iOS/Mac
+- Windows
 
 
 **Optional Images**
 
 Try usings these images or something simular. Feel free to find stock photos if you think you have better options.
 
-**Agora RTC Descriptive image**
-<br>
-<br>
 ![](./images/agora-rtc.png )
 
 
-**Agora RTM Descriptive image**
-<br>
-<br>
-![](./images/messages.png)
-
-
-## Sample Design
-
-I have created a quick mockup if you need some inspiration or clarifications of what you need to build.
-<br>
-
-![](./images/sample-page.png)
-
--->
+![](./images/mobile.png )
