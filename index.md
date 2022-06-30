@@ -45,7 +45,7 @@ Note: All times represented in Eastern Standard Timezone
 
 This will be posted at 11am EST on 6/30/2022
 
-Ok so the task at hand is revealed! Since Agora is the sponsor of this video we will create a landing page promoting Agora and two of their products. The Agora RTC and RTM SDK. This will be a ONE page design.
+Ok so the task at hand is revealed! Since Agora is the sponsor of this video we will create a landing page promoting Agora and their SDK.
 
 I will provide all the content below, your job will be to piece this together using your preferred choice of design software (Figma, XD, Sketch, etc..). It's up to your discretion to use whatever content you want wish and how you piece together the layout along with color schemes. 
 
