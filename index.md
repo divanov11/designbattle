@@ -23,7 +23,7 @@ View stream [here](https://www.youtube.com/watch?v=n2i4D62mIDE)
 1. Complete Design by 1:00pm EST (2Hrs)
 1. Wait for results to be announce live via [youtube live stream](https://www.youtube.com/watch?v=n2i4D62mIDE)
 
-Contest will officially start at 11am (EST) and live stream will start on youtube at 12pm (EST). To participate be sure to join the [Design Course discord server](hhttps://discord.gg/svBRy64t) by start time (11am) and wait for further instructions.
+Contest will officially start at 11am (EST) and live stream will start on youtube at 12pm (EST). To participate be sure to join the [Design Course discord server](https://discord.gg/svBRy64t) by start time (11am) and wait for further instructions.
 
 At 11am participants will be given a hypothetical page to design. Participants will use figma to create designs and will provide public links in the server so Dennis and Gary can view during the live stream. Total time to design will be 2hrs.
 
