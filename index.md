@@ -62,7 +62,7 @@ Note: Ask any questions you may have in the #hackathon-questions channel in the 
 ## Suggested Page Content
 
 **Agora Primary Brand Color**
-Color: rgba(9, 157, 253, 1)
+Color: rgba(9, 157, 253, 1) /#099dfd
 
 
 **Agora Logo**
