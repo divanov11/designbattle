@@ -84,7 +84,7 @@ Color: rgba(9, 157, 253, 1)
 
 **Optional Images**
 
-Try usings these images or something simular. Feel free to find stock photos if you think you have better options.
+Try usings these images or something similar. Feel free to find stock photos if you think you have better options.
 
 ![](./images/agora-rtc.png )
 
