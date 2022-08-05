@@ -96,3 +96,31 @@ Try usings these images or something similar. Feel free to find stock photos if 
 
 
 ![](./images/mobile.png )
+
+
+
+```js
+//Just testing a code block
+
+import React, { useState } from 'react';
+import AgoraUIKit from 'agora-react-uikit';
+const App = () => {
+  const [videoCall, setVideoCall] = useState(true);
+  const callbacks = {
+    EndCall: () => setVideoCall(false)
+  };
+  const rtcProps = {
+    appId: '<Agora App ID>',
+    channel: '<Channel Name>',
+    token: '<Your Channel Token>'
+  };
+  return videoCall ? (
+    <div style={{ display: 'flex', width: '100vw', height: '100vh' }}>
+      <AgoraUIKit rtcProps={rtcProps} callbacks={callbacks} />
+    </div>
+  ) : (
+    <h3 onClick={() => setVideoCall(true)}>Join</h3>
+  );
+};
+export default App;
+```
